@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/keypad_led_buzzer.hex'
+elf = 'build/keypad_led_buzzer.elf'
